@@ -15,7 +15,7 @@ Convert vector graphics to g-code for pen plotters, laser engravers, and other C
 
 ### Web interface
 
-Check it out at https://sameer.github.io/svg2gcode. Just select an SVG and click generate!
+Check it out at https://1fifoto.github.io/svg2gcode. Just select an SVG and click generate!
 
 ![SVG selected on web interface](https://user-images.githubusercontent.com/11097096/129305765-f78da85d-cf4f-4286-a97c-7124a716b5fa.png)
 
